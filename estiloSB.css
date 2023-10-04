@@ -1,0 +1,110 @@
+header {
+    margin: -8px;
+    
+}
+header img {
+    top: 0%;
+    width: 100%;
+    height: 250px;
+    
+
+}
+
+.card-container{
+    width: 100%;
+    height: 300px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+}
+.image-container{
+    width: 40%;
+
+}
+.image-container img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px 0 0 10px;
+    margin-left: 50px;
+}
+.text-container{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 15px;
+    margin: right 50px ;
+}
+h2{
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+.title{
+    font-size: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: 100px;
+}
+.biografia{
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.logo{
+    position: absolute;
+    width: 80px;
+    height: 100px;
+    top: 0;
+    left: 0;
+
+}
+.sb{
+    font-family: serif;
+    font-size: 34px;
+    font-weight: bolder;
+    color: white;
+    position:absolute;
+    top: 80px;
+    right: 300px;
+}
+.grupo{
+    position:absolute;
+    top: 0%;
+    left: 45%;
+    width: 100px;
+    height: 100px;
+}
+.menu{
+    position: absolute;
+    top: 0;
+    left: 97%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+  
+}
+.menu label{
+    display: initial;
+}
+.wpp{
+    position:fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 70px;
+    height: auto;
+    cursor: pointer;
+}
+
+
+  
+
+   
+
+

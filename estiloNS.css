@@ -1,0 +1,47 @@
+body{
+    background-image: url(../img/sobreNosotros1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: relative;
+    
+}
+img{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 70px;
+    height: 90px;
+}
+.nt{
+    font-family: serif;
+    font-size: 34px;
+    font-weight: bolder;
+    color: white;
+    position:absolute;
+    top: 80px;
+    right: 300px;
+}
+.acto{
+    position:absolute;
+    top: 0%;
+    left: 45%;
+    width: 100px;
+    height: 100px;
+}
+.menu{
+    position: absolute;
+    left: 97%;
+    width: 30px;
+    height: 30px;
+  
+  }
+  .wpp{
+    position:fixed;
+    top: 90%;
+    left: 95%;
+    width:60px;
+    height: 60px;
+  }
+   
+
+
